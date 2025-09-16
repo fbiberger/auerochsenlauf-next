@@ -1,52 +1,48 @@
 ---
-title: Home
+title: Ausschreibung
 type: Page
 sections:
   - type: HeroSection
-    title: Hero Title
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    title: Auerochsenlauf Walsdorf
+    subtitle: Der schnelle Waldlauf im Aurachtal.
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+      10km, 5km, und diverse Schülerläufe laden auch 2026 wieder ein, um
+      bewältigt zu werden.
     actions:
       - type: Button
-        label: Start Building
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
+        label: Jetzt anmelden
+        url: 'https://my.raceresult.com/312262/'
         size: large
         variant: contained
         color: primary
       - type: Button
-        label: Read the Docs
-        url: 'https://docs.netlify.com/visual-editor/overview/'
+        label: Zur Ausschreibung
+        url: /ausschreibung
         size: large
         variant: outlined
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
-      altText: Hero section image
+      url: /images/cropped-cropped-48818245466_1e561ea77f_ky-1.jpg
+      altText: Der Start des Laufes
   - type: CardsSection
     title: Cards Section Component
     subtitle: Section subtitle here
     items:
       - type: Card
-        title: First Card Title
+        title: Die Strecken
         image:
           type: Image
           url: /images/nextjs.svg
           altText: First item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+        text: |
+          Zu den GPS Tracks und Bildern der Strecken
         actions:
           - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            label: Zu den Strecken
+            url: /strecken
       - type: Card
-        title: Second Card Title
+        title: Die Ausschreibung
         image:
           type: Image
           url: /images/mui-5.svg
@@ -61,7 +57,7 @@ sections:
             label: Read the Docs
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
-        title: Third Card Title
+        title: Archiv
         image:
           type: Image
           url: /images/ts.svg
