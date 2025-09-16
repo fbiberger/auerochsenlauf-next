@@ -40,7 +40,7 @@ sections:
         actions:
           - type: Button
             label: Zu den Strecken
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: /strecken
       - type: Card
         title: Die Ausschreibung
         image:
