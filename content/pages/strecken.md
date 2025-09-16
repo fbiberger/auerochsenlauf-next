@@ -3,7 +3,7 @@ type: Page
 title: Die Strecken
 sections:
   - type: HeroSection
-    title: An Empty Page
+    title: Die Strecken
     subtitle: The section subtitle
     text: >-
       Add more sections by hovering above or below this one and clicking '+ Add
