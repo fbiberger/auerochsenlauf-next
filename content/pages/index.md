@@ -24,7 +24,7 @@ sections:
     image:
       type: Image
       url: /images/cropped-cropped-48818245466_1e561ea77f_ky-1.jpg
-      altText: Hero section image
+      altText: Der Start des Laufes
   - type: CardsSection
     title: Cards Section Component
     subtitle: Section subtitle here
