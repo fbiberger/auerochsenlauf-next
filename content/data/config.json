@@ -15,6 +15,13 @@
                 "label": "Strecken",
                 "url": "/strecken",
                 "underline": "hover"
+            },
+            {
+                "type": "Link",
+                "label": "Ausschreibung",
+                "url": "/ausschreibung",
+                "underline": "always",
+                "color": "primary"
             }
         ]
     },
