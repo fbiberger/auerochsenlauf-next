@@ -10,7 +10,7 @@ sections:
       bewältigt zu werden.
     actions:
       - type: Button
-        label: Start Building
+        label: Jetzt anmelden
         url: 'https://docs.netlify.com/visual-editor/get-started/'
         size: large
         variant: contained
