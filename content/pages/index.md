@@ -39,7 +39,7 @@ sections:
           Zu den GPS Tracks und Bildern der Strecken
         actions:
           - type: Button
-            label: Die Strecken
+            label: Zu den Strecken
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
         title: Die Ausschreibung
