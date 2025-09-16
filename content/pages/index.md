@@ -6,9 +6,8 @@ sections:
     title: Auerochsenlauf Walsdorf
     subtitle: Der schnelle Waldlauf im Aurachtal.
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+      10km, 5km, und diverse Schülerläufe laden auch 2026 wieder ein, um
+      bewältigt zu werden.
     actions:
       - type: Button
         label: Start Building
