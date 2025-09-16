@@ -4,7 +4,7 @@ title: Die Strecken
 sections:
   - type: HeroSection
     title: Die Strecken
-    subtitle: The section subtitle
+    subtitle: Unsere Strekcen in der Übersicht
     text: >-
       Add more sections by hovering above or below this one and clicking '+ Add
       Section', or using the sidebar.
