@@ -17,7 +17,7 @@ sections:
         color: primary
       - type: Button
         label: Zur Ausschreibung
-        url: 'https://docs.netlify.com/visual-editor/overview/'
+        url: /ausschreibung
         size: large
         variant: outlined
         color: primary
