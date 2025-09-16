@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Ausschreibung
 type: Page
 sections:
   - type: HeroSection
