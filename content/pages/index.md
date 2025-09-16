@@ -11,7 +11,7 @@ sections:
     actions:
       - type: Button
         label: Jetzt anmelden
-        url: ''
+        url: 'https://my.raceresult.com/312262/'
         size: large
         variant: contained
         color: primary
