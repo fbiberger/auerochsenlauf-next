@@ -37,7 +37,7 @@
         "navLinks": [
             {
                 "type": "Link",
-                "label": "Home",
+                "label": "Impressum",
                 "url": "/",
                 "underline": "always",
                 "color": "primary"
