@@ -30,7 +30,7 @@ sections:
     subtitle: Section subtitle here
     items:
       - type: Card
-        title: First Card Title
+        title: Die Strecken
         image:
           type: Image
           url: /images/nextjs.svg
