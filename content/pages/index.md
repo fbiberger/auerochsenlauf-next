@@ -3,7 +3,7 @@ title: Ausschreibung
 type: Page
 sections:
   - type: HeroSection
-    title: Hero Title
+    title: Auerochsenlauf Walsdorf
     subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
     text: >
       This is the HeroSection component. You can visually edit this component &
