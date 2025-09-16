@@ -38,7 +38,7 @@
             {
                 "type": "Link",
                 "label": "Impressum",
-                "url": "/",
+                "url": "https://www.sv-walsdorf.de/impressum",
                 "underline": "always",
                 "color": "primary"
             }
