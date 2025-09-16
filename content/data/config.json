@@ -31,5 +31,25 @@
                 "color": "primary"
             }
         ]
+    },
+    "footer": {
+        "type": "Footer",
+        "navLinks": [
+            {
+                "type": "Link",
+                "label": "Home",
+                "url": "/",
+                "underline": "always",
+                "color": "primary"
+            },
+            {
+                "type": "Link",
+                "label": "About",
+                "url": "/",
+                "underline": "always",
+                "color": "primary"
+            }
+        ],
+        "copyrightText": "Copyright text"
     }
 }
