@@ -12,7 +12,7 @@
             },
             {
                 "type": "Link",
-                "label": "About",
+                "label": "Strecken",
                 "url": "/about",
                 "underline": "hover"
             },
